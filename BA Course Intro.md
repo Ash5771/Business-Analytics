@@ -4,14 +4,14 @@ A complete week-wise Business Analytics course taught on YouTube. This repositor
 
 Welcome to Week 1-2 of the Business Analytics Course. Watch the YouTube video sessions linked below:
 
-🎥 **[Watch Week 1-2 Session on YouTube](https://youtu.be/RloHwRdFi2U?si=AiaruZ6ARhVe5eei)**
+🎥 **[Watch Course Introduction Video On Youtube](https://youtu.be/VT9ToOPawW0?si=hIA8zX0WbMG6qHr1)**
 
 ---
 
 ## 📄 Topics Covered:
 - Introduction to Business Analytics
 - Data Types and Applications
-- Descriptive Statistics
+- Explained Grading Pattern of Jan  25 Term
 
 ---
 
